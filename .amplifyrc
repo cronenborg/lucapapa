@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "lucapapa-20190104042911-authRole",
+            "UnauthRoleArn": "arn:aws:iam::084355457226:role/lucapapa-20190104042911-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::084355457226:role/lucapapa-20190104042911-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "lucapapa-20190104042911-deployment",
+            "UnauthRoleName": "lucapapa-20190104042911-unauthRole",
+            "StackName": "lucapapa-20190104042911",
+            "StackId": "arn:aws:cloudformation:us-west-2:084355457226:stack/lucapapa-20190104042911/174afdb0-0f7d-11e9-a63a-500c33711099"
+        }
+    }
+}
