@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"providers": {
 		"awscloudformation": {
@@ -29,4 +30,19 @@
 			"lastPushDirHash": "drZjUeEXmzjAJeR+nNHJY8H3nyY="
 		}
 	}
+=======
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "lucapapa-20190129025352-authRole",
+            "UnauthRoleArn": "arn:aws:iam::084355457226:role/lucapapa-20190129025352-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::084355457226:role/lucapapa-20190129025352-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "lucapapa-20190129025352-deployment",
+            "UnauthRoleName": "lucapapa-20190129025352-unauthRole",
+            "StackName": "lucapapa-20190129025352",
+            "StackId": "arn:aws:cloudformation:us-west-2:084355457226:stack/lucapapa-20190129025352/ea8cb9c0-2314-11e9-8aa4-0aa90e735f2c"
+        }
+    }
+>>>>>>> 717001c2a58cfd7bd0a9cecdc152d751abf5ec54
 }
