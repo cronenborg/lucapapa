@@ -4,11 +4,11 @@ module.exports = {
   publisher: 'Luca Papa', // Organization name used for SEO schema
   siteDescription:
     'Luca Papa Portfolio and Services',
-  siteUrl: 'http://lucapapa-20190104043001-hostingbucket.s3-website-us-west-2.amazonaws.com', // Site domain. Do not include a trailing slash! If you wish to use a path prefix you can read more about that here: https://www.gatsbyjs.org/docs/path-prefix/
+  siteUrl: 'http://lucapapa-20190104042911-hostingbucket.s3-website-us-west-2.amazonaws.com', // Site domain. Do not include a trailing slash! If you wish to use a path prefix you can read more about that here: https://www.gatsbyjs.org/docs/path-prefix/
   postsPerHomePage: 7, // Number of posts shown on the 1st page of of the index.js template (home page)
   postsPerPage: 6, // Number of posts shown on paginated pages
   author: 'Luca Papa', // Author for RSS author segment and SEO schema
-  authorUrl: 'http://lucapapa-20190104043001-hostingbucket.s3-website-us-west-2.amazonaws.com/about/', // URL used for author and publisher schema, can be a social profile or other personal site
+  authorUrl: 'http://lucapapa-20190104042911-hostingbucket.s3-website-us-west-2.amazonaws.com/about/', // URL used for author and publisher schema, can be a social profile or other personal site
   userTwitter: '@twitter', // Change for Twitter Cards
   shortTitle: 'Luca Papa App', // Used for App manifest e.g. Mobile Home Screen
   shareImage: '/logos/share.jpg', // Open Graph Default Share Image. 1200x1200 is recommended
